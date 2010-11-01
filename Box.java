@@ -2,7 +2,7 @@ public class Box {
 
     private Object object;
 
-
+    //Obly Integer Objects in this Box
     public void add(Object object){
 	this.object = object;
     }
@@ -11,3 +11,4 @@ public class Box {
 	return this.object;
     }
 }
+
