@@ -11,6 +11,7 @@ public class Box {
 	return this.object;
     }
 
-    public void
+    public void bal(){
+    }
 }
 
