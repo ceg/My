@@ -1,6 +1,6 @@
 
 (println "Auto Brum Brum")
-
+(
 (println "Porsche")
 
 (println "BMW")
@@ -9,4 +9,4 @@
 
 (def student (hash-map :guersel "c++"  :sercan "c" :varol "c"))
 
-(seq sstduent (hash-map :e 1 :z 2))
+(def sstudent (seq student))
