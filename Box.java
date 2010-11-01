@@ -14,6 +14,7 @@ public class Box {
     public void bal(){
     }
 
-    public void  go()
+    public void  go(){
+    }
 }
 
