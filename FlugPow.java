@@ -8,4 +8,8 @@ public class flug {
 
     public int zahl
 
+
+   public void oh(){
+    }
+
 }
