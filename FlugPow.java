@@ -6,6 +6,8 @@ public class flug {
 	System.out.println("hi");
     }
 
-    public int zahl
+    public int zahl(){
+
+    }
 
 }
